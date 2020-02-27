@@ -1,4 +1,9 @@
+const CarsController = require('./cars');
+const CountriesController = require('./countries');
+const StatusController = require('./status');
+
 module.exports = {
-    CountriesController: require('./countries'),
-    StatusController: require('./status')
+    CarsController,
+    CountriesController,
+    StatusController
 };
