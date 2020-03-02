@@ -1,0 +1,120 @@
+[
+  {
+    "idCensusTaker": 1,
+    "name": "Oralia",
+    "lastname": "Brundall",
+    "birthdate": "7/28/1980",
+    "gender": "female",
+    "email": "obrundall0@va.gov",
+    "picture": "http://dummyimage.com/208x247.jpg/dddddd/000000",
+    "status": "active"
+  },
+  {
+    "idCensusTaker": 2,
+    "name": "Milicent",
+    "lastname": "Kid",
+    "birthdate": "1/31/1995",
+    "gender": "other",
+    "email": "mkid1@squidoo.com",
+    "picture": "http://dummyimage.com/242x184.png/cc0000/ffffff",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 3,
+    "name": "Delmore",
+    "lastname": "Woodyatt",
+    "birthdate": "4/22/1990",
+    "gender": "other",
+    "email": "dwoodyatt2@senate.gov",
+    "picture": "http://dummyimage.com/117x121.bmp/5fa2dd/ffffff",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 4,
+    "name": "Blake",
+    "lastname": "Leslie",
+    "birthdate": "8/28/1988",
+    "gender": "female",
+    "email": "bleslie3@typepad.com",
+    "picture": "http://dummyimage.com/174x212.png/cc0000/ffffff",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 5,
+    "name": "Mellicent",
+    "lastname": "Linklet",
+    "birthdate": "5/6/1974",
+    "gender": "female",
+    "email": "mlinklet4@unicef.org",
+    "picture": "http://dummyimage.com/201x145.jpg/ff4444/ffffff",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 6,
+    "name": "Hurlee",
+    "lastname": "Gauson",
+    "birthdate": "10/19/1980",
+    "gender": "other",
+    "email": "hgauson5@geocities.com",
+    "picture": "http://dummyimage.com/154x173.png/ff4444/ffffff",
+    "status": "active"
+  },
+  {
+    "idCensusTaker": 7,
+    "name": "Andria",
+    "lastname": "Pickerin",
+    "birthdate": "10/14/1987",
+    "gender": "other",
+    "email": "apickerin6@walmart.com",
+    "picture": "http://dummyimage.com/228x146.png/cc0000/ffffff",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 8,
+    "name": "Toinette",
+    "lastname": "Alwen",
+    "birthdate": "10/11/1982",
+    "gender": "male",
+    "email": "talwen7@nature.com",
+    "picture": "http://dummyimage.com/243x175.bmp/dddddd/000000",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 9,
+    "name": "Jewelle",
+    "lastname": "Trethowan",
+    "birthdate": "2/4/1999",
+    "gender": "male",
+    "email": "jtrethowan8@psu.edu",
+    "picture": "http://dummyimage.com/189x138.png/dddddd/000000",
+    "status": "inactive"
+  },
+  {
+    "idCensusTaker": 10,
+    "name": "Marnia",
+    "lastname": "Orviss",
+    "birthdate": "1/27/1999",
+    "gender": "other",
+    "email": "morviss9@cyberchimps.com",
+    "picture": "http://dummyimage.com/238x230.png/ff4444/ffffff",
+    "status": "inactive"
+  },
+  {
+    "id": "10",
+    "name": "mart",
+    "lastname": "nose",
+    "birthday": "01/2/1990",
+    "gender": "other",
+    "email": "dkfjjdlfjdkfjdkslfds@gmail.com",
+    "status": "active"
+  },
+  {
+    "id": "22",
+    "name": "marcos",
+    "lastname": "lavagna",
+    "birthday": "01/2/1989",
+    "gender": "male",
+    "email": "marcoslfds@gmail.com",
+    "status": "active"
+  }
+]
